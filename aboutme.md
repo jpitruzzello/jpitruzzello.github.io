@@ -5,19 +5,19 @@ subtitle:
 ---
  
 
-###The Glass Apparatus
+# The Glass Apparatus
 
 
-###The Flashlight
+# The Flashlight
 
 
-###The Phone Armature
+# The Phone Armature
 
 
-###The Puzzle
+# The Puzzle
 
 
-###The Container
+# The Container
 
 
-###The New Chess
+# The New Chess
