@@ -12,11 +12,16 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 The Glass Apparatus
 
 
-
-
 The Flashlight
 
 
-
-
 The Phone Armature
+
+
+The Puzzle
+
+
+The Container
+
+
+The New Chess
