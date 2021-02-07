@@ -14,7 +14,6 @@ author: Julia Pitruzzello
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about-me"
   Portfolio: "portfolio"
   # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
